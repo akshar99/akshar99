@@ -4,7 +4,7 @@
 - 2 research published. 
 - I have knowldege of Data Science/ML in terms of projects and hands-on. Python is my best mate. I also have knowledge of C, Ruby, SQL, Selenium.
 - I am not looking for any job that increases my pay rather something that increases my knowledge, totally open for collaborations.
-- Fascinated with open source.
+- Fascinated with open source, Linux, Data Analytics. 
 - (It's very unprofessional, but it is what it is...)
 <!---
 akshar99/akshar99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
