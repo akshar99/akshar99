@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshar Rastogi!  
 
-🔹 **Backend Developer | Python Enthusiast | FastAPI & Django Expert**  
+🔹 **Backend Developer | Python Enthusiast | FastAPI & Django Folk**  
 🔹 Passionate about **scalable architectures, API development, and database optimization**  
 🔹 Love solving **DSA problems**, exploring **system design**, and learning **new technologies**  
 
